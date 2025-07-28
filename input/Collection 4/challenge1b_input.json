@@ -1,0 +1,27 @@
+{
+    "challenge_info": {
+        "challenge_id": "round_1b_002",
+        "test_case_name": "gnn_lit_review",
+        "description": "Literature review on Graph Neural Networks for Drug Discovery"
+    },
+    "documents": [
+        {
+            "filename": "gnn_drug_discovery_v1.pdf",
+            "title": "Graph Attention Networks for Drug Discovery"
+        },
+        {
+            "filename": "gnn_drug_discovery_v2.pdf",
+            "title": "Message Passing Neural Networks (MPNNs)"
+        },
+        {
+            "filename": "gnn_drug_discovery_v3.pdf",
+            "title": "GNNs + Reinforcement Learning for Molecule Generation"
+        } 
+    ],
+    "persona": {
+        "role": "PhD Researcher in Computational Biology"
+    },
+    "job_to_be_done": {
+        "task": "Prepare a comprehensive literature review focusing on methodologies, datasets, and performance benchmarks"
+    }
+}
